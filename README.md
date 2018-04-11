@@ -13,6 +13,8 @@ Rinkeby Ether Faucet - http://rinkeby-faucet.com
 
 Etherscan - https://rinkeby.etherscan.io
 
+Infura - https://infura.io
+
 Solidity extension for VS Code - https://github.com/juanfranblanco/vscode-solidity
 
 Windows Build Tools - https://www.microsoft.com/en-in/download/details.aspx?id=48159
