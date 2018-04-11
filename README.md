@@ -1,11 +1,11 @@
 # Ethereum
 
-Learning Roadmap
+# Learning Roadmap
 
 Udemy Course - https://eylearning.udemy.com/ethereum-and-solidity-the-complete-developers-guide
 
 
-Helpful Links
+# Helpful Links
 
 Solidity extension for VS Code - https://github.com/juanfranblanco/vscode-solidity
 
