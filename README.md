@@ -7,6 +7,8 @@ Udemy Course - https://eylearning.udemy.com/ethereum-and-solidity-the-complete-d
 
 # Helpful Links
 
+Remix IDE - http://remix.ethereum.org
+
 Rinkeby Ether Faucet - http://rinkeby-faucet.com
 
 Etherscan - https://rinkeby.etherscan.io
