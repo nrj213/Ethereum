@@ -21,4 +21,6 @@ Windows Build Tools - https://www.microsoft.com/en-in/download/details.aspx?id=4
 
 # Useful Commands
 
+npm install --save ganache-cli mocha solc web3@1.0.0-beta.26
+
 Run Mocha Test - npm run test
