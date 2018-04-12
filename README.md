@@ -23,4 +23,6 @@ Windows Build Tools - https://www.microsoft.com/en-in/download/details.aspx?id=4
 
 npm install --save ganache-cli mocha solc web3@1.0.0-beta.26
 
+npm install --save truffle-hdwallet-provider
+
 Run Mocha Test - npm run test
