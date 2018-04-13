@@ -19,6 +19,8 @@ Solidity extension for VS Code - https://github.com/juanfranblanco/vscode-solidi
 
 Windows Build Tools - https://www.microsoft.com/en-in/download/details.aspx?id=48159
 
+Redux Boilerplate Package - https://github.com/StephenGrider/ReduxSimpleStarter
+
 # Useful Commands
 
 npm install --save ganache-cli mocha solc web3@1.0.0-beta.26
