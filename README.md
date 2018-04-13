@@ -25,4 +25,6 @@ npm install --save ganache-cli mocha solc web3@1.0.0-beta.26
 
 npm install --save truffle-hdwallet-provider
 
-Run Mocha Test - npm run test
+npm install - To install dependencies
+
+npm run <script-name> - To run scripts
