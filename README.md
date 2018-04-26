@@ -27,6 +27,8 @@ npm install --save ganache-cli mocha solc web3@1.0.0-beta.26
 
 npm install --save truffle-hdwallet-provider
 
+npm install -g create-react-app
+
 npm install - To install dependencies
 
 npm run <script-name> - To run scripts
